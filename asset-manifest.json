@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Recepie-App/static/css/main.461c3b4d.chunk.css",
+    "main.js": "/Recepie-App/static/js/main.d7c5834f.chunk.js",
+    "main.js.map": "/Recepie-App/static/js/main.d7c5834f.chunk.js.map",
+    "runtime-main.js": "/Recepie-App/static/js/runtime-main.1f25dd7d.js",
+    "runtime-main.js.map": "/Recepie-App/static/js/runtime-main.1f25dd7d.js.map",
+    "static/js/2.10776edb.chunk.js": "/Recepie-App/static/js/2.10776edb.chunk.js",
+    "static/js/2.10776edb.chunk.js.map": "/Recepie-App/static/js/2.10776edb.chunk.js.map",
+    "index.html": "/Recepie-App/index.html",
+    "static/css/main.461c3b4d.chunk.css.map": "/Recepie-App/static/css/main.461c3b4d.chunk.css.map",
+    "static/js/2.10776edb.chunk.js.LICENSE.txt": "/Recepie-App/static/js/2.10776edb.chunk.js.LICENSE.txt",
+    "static/media/poc.adba5c53.png": "/Recepie-App/static/media/poc.adba5c53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f25dd7d.js",
+    "static/js/2.10776edb.chunk.js",
+    "static/css/main.461c3b4d.chunk.css",
+    "static/js/main.d7c5834f.chunk.js"
+  ]
+}
